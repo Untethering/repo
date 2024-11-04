@@ -1,8 +1,8 @@
-Origin: Usbe's Repo
-Label: Usbe's Repo
+Origin: Untether's Repo
+Label: Untether's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Usbe's Repo - The archive for tweaks from shutdown repos.
+Description: Untether's Repo - The archive for tweaks from shutdown repos.
